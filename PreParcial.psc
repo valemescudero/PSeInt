@@ -1,6 +1,4 @@
-Algoritmo PreParcial05102020Version1
-	
-    //
+ //
 	//  2)En un negocio tenemos las ventas realizadas de distintos meses, 
 	//  sea enero, febrero y marzo.
 	//  Por otro lado tenemos ventas a ingresar con valores entre 200 y 1000 pesos.
